@@ -27,4 +27,4 @@ Data used was from the [HRI Driver Behaviour Dataset (HDBD)](https://usa.honda-r
    - **Outcome:** Insights into the relationship between driving conditions (like intersections) and physiological responses (e.g., elevated heart rate or spikes in heart rate).
 
 
-For any inquiries, please dont hesitate to reach out!
+# For any inquiries, please dont hesitate to reach out!
