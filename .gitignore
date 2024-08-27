@@ -1,0 +1,6 @@
+# ingore all files in the data directory
+data/*
+
+# Ignore exploratory data analysis notebooks
+./Exploring Participant Data.ipynb
+./flagging_video_data.ipynb
