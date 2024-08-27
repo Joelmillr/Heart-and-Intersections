@@ -1,5 +1,7 @@
-# ingore all files in the data directory
-data/*
+# ingore all files in the data directory, except for the README
+data/Participant_Data/*
+data/Video_Data/*/*.mp4
+data/Video_Data/*/*_data.csv
 
 # Ignore exploratory data analysis notebooks
 ./Exploring Participant Data.ipynb
