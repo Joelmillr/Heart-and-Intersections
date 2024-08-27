@@ -14,13 +14,13 @@ Data used was from the [HRI Driver Behaviour Dataset (HDBD)](https://usa.honda-r
      - The filtered data is saved into separate files for each scenario, allowing for easier analysis and experimentation later.
    - **Outcome:** Separate data files for each driving scenario, which will be used in subsequent analysis.
 
-### 2) Removing Data Outliers.ipynb
+## 2) Removing Data Outliers.ipynb
    - **Objective:** This notebook aims to clean the dataset by identifying and removing outliers. Outliers can skew the results and lead to incorrect conclusions.
    - **Process:**
      - Participant data where the measured HR goes below 10 beats per minute, are flagged and removed as outliers
    - **Outcome:** A cleaned dataset, free of extreme outliers, which is more reliable for analysis and experimentation.
 
-### 3) Experimentation.ipynb
+## 3) Experimentation.ipynb
    - **Objective:** This notebook conducts experiments on the processed data to explore relationships between physiological signals (like heart rate) and driving behaviors, particularly around intersections.
    - **Process:**
      - More information on the methodology taken may be found in the paper "The Hearts Response to Intersections" *TODO: Add Link
